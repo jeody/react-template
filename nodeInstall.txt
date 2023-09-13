@@ -1,0 +1,18 @@
+// create app
+create-react-app ./
+
+// install packages
+npm i react-icons sass react-redux @reduxjs/toolkit
+
+//start the project
+npm start
+
+//create routes
+npm i react-router-dom
+
+//install react toastify
+npm i react-toastify
+
+//push code to github
+git init
+git commit "initial commit"
